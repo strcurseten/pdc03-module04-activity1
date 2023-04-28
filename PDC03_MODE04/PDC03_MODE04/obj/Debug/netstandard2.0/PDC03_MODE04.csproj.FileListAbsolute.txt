@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\bin\Debug\netstandard2.0\PDC03_MODE04.deps.json
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\bin\Debug\netstandard2.0\PDC03_MODE04.dll
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\bin\Debug\netstandard2.0\PDC03_MODE04.pdb
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\PDC03_MODE04.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\PDC03_MODE04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\activity1.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\activity2.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\PDC03_MODE04.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\PDC03_MODE04.AssemblyInfo.cs
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\PDC03_MODE04.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\PDC03_MODE04.dll
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\refint\PDC03_MODE04.dll
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\PDC03_MODE04.pdb
+C:\Users\User\source\repos\PDC03_MODE04\PDC03_MODE04\PDC03_MODE04\obj\Debug\netstandard2.0\ref\PDC03_MODE04.dll
